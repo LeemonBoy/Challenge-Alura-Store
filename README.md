@@ -52,6 +52,7 @@ A continuación se muestran algunos ejemplos de visualizaciones generadas durant
 
 
 ![Top productos](imagenes/más_vendidos.png) 
+![Top productos](imagenes/menos_vendidos.png)
 
 > Se identificaron patrones comunes entre los productos más vendidos (ej. Microondas, Bloques de construcción) y productos con baja rotación (ej. Celular ABXY, Asistente virtual).
 
@@ -61,8 +62,7 @@ A continuación se muestran algunos ejemplos de visualizaciones generadas durant
 
 1. Descarga el archivo "Challenge_Alura_Store.ipynb"
    ![Descargar archivo](imagenes/descargar.png) 
-3. Abrir en Google Colab
-4. Ejecuta todas las celdas del notebook para reproducir el análisis completo.
+3. Abrir en Google Colab y ejecutar todas las celdas del notebook para reproducir el análisis completo.
    ![Ejecutar archivo en google colab](imagenes/subir_notebook.gif) 
 
 ---
